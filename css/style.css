@@ -3,6 +3,7 @@
 }
 
 body {
+  background-image: url("images/baku.jpg"), url("images/london.png"), url("images/madrid.jpg"), url("images/rome.png");
   background-color: #dadada;
   font-size: 14px;
 }
