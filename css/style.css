@@ -6,19 +6,20 @@ body {
   font-size: 14px;
 }
 
-body h1 {
+h1 {
+  font-size: 1.8em;
+  font-family: "Times New Roman", serif;
+  text-align: left;
+  margin-top: 4%;
+  margin-left: 4%;
+}
+
+h2 {
   font-size: 1.5em;
   text-align: center;
   font-variant: small-caps;
   font-family: "Verdana", sans-serif;
   margin: 10% 0% 5%;
-}
-
-body h2{
-  font-size: 1.8em;
-  position: absolute;
-  top: 10%;
-  left: 5%;
 }
 
 div {
@@ -45,47 +46,28 @@ div {
   width: 80%;
 }
 
-
-.preview baku {
+.preview {
   position: relative;
   text-align: left;
   margin: 3% 1%;
   color: black;
+  background-color: #dadada;
+  background-size: cover;
+  height: 170px;
+}
+
+.baku {
   background-image: url("../images/baku.jpg");
-  background-color: #dadada;
-  background-size: cover;
-  height: 170px;
 }
 
-.preview london {
-  position: relative;
-  text-align: left;
-  margin: 3% 1%;
-  color: black;
+.london {
   background-image: url("../images/london.png");
-  background-color: #dadada;
-  background-size: cover;
-  height: 170px;
 }
 
-.preview madrid {
-  position: relative;
-  text-align: left;
-  margin: 3% 1%;
-  color: black;
+.madrid {
   background-image: url("../images/madrid.jpg");
-  background-color: #dadada;
-  background-size: cover;
-  height: 170px;
 }
 
-.preview rome {
-  position: relative;
-  text-align: left;
-  margin: 3% 1%;
-  color: black;
+.rome {
   background-image: url("../images/rome.jpg");
-  background-color: #dadada;
-  background-size: cover;
-  height: 170px;
 }
