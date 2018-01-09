@@ -46,7 +46,7 @@ div {
 }
 
 
-.preview-baku {
+.preview baku {
   position: relative;
   text-align: left;
   margin: 3% 1%;
@@ -57,7 +57,7 @@ div {
   height: 170px;
 }
 
-.preview-london{
+.preview london {
   position: relative;
   text-align: left;
   margin: 3% 1%;
@@ -68,7 +68,7 @@ div {
   height: 170px;
 }
 
-.preview-madrid{
+.preview madrid {
   position: relative;
   text-align: left;
   margin: 3% 1%;
@@ -79,7 +79,7 @@ div {
   height: 170px;
 }
 
-.preview-rome{
+.preview rome {
   position: relative;
   text-align: left;
   margin: 3% 1%;
